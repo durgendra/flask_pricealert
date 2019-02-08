@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+build/
+dist/
+.env
+*.log
+.DS_Store
+PUBLICATION_REVIEW.md
+README.draft.md
+README.draft.*
+*.draft.md
